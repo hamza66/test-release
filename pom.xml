@@ -16,7 +16,7 @@
             <url>http://localhost:8089/repository/assurandme-release</url>
         </repository>
         <snapshotRepository>
-            <id>assurandme-release</id>
+            <id>assurandme-snapshot</id>
             <url>http://localhost:8089/repository/assurandme-snapshot</url>
         </snapshotRepository>
     </distributionManagement>
