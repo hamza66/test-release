@@ -12,11 +12,11 @@
 
     <distributionManagement>
         <repository>
-            <id>Nexus</id>
+            <id>assurandme-release</id>
             <url>http://localhost:8089/repository/assurandme-release</url>
         </repository>
         <snapshotRepository>
-            <id>Nexus</id>
+            <id>assurandme-release</id>
             <url>http://localhost:8089/repository/assurandme-snapshot</url>
         </snapshotRepository>
     </distributionManagement>
